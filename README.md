@@ -1,5 +1,5 @@
 the purpose of this respiratory is to show you how to do binary addition  so the way to do it is pick a number and divide it by 2 multiple times until its 2/1 and you will end up with a bunch of zeros and ones but then you solve it all and you eventually get your answer. when doing half adders the least signifficant number 
-so theinput could be different anytime https://platform.virdocs.com/read/1541540/15/#/4/60[lev1_30]/2,/1:0,/1:0
+so the input could be different anytime https://platform.virdocs.com/read/1541540/15/#/4/60[lev1_30]/2,/1:0,/1:0
 
 ![science project](https://github.com/user-attachments/assets/925c46d2-3c1f-46cd-bf0c-7f31099189f8)
 ![science project](https://github.com/user-attachments/assets/01b3d061-0c6c-421d-94b9-cfcce64e80d1)
