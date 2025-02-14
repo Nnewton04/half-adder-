@@ -1,1 +1,1 @@
-# half-adder-
+the purpose of this respiratory is to show you how to do binary addition  so the way to do it is pick a number and divide it by 2 multiple times until its 2/1 and you will end up with a bunch of zeros and ones bu then 
